@@ -10,4 +10,4 @@
 - VIM
 
 ## リンク
-- [Jeshikas Website]('https://jeshika0815.github.io/tom2005_webs/index.html')
+- [JeshikasWebsite]('https://jeshika0815.github.io/tom2005_webs/index.html')
